@@ -35,6 +35,9 @@ public class LoginTest {
 	@Test
 	public void loginTest() {
 
+
+		System.out.println("ekledim");
+
 		// Test name: Login Test
 		// Step # | name | target | value | comment
 		// 1 | open | / | |
